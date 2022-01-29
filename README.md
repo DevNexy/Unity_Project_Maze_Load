@@ -21,3 +21,15 @@
 #### <게임 조작 방법>
 ##### 좌우 회전 : 모바일 좌우로 회전 (1인칭 가상현실)
 ##### 앞으로 이동 : 화면 터치
+---
+#### <사용한 에셋 및 출처>
+* 쿠키런 무료 폰트
+  * https://www.cookierunfont.com/#section7
+* 게임 설명 양피지 이미지
+  * https://www.pngwing.com/ko/free-png-bfetj
+* 코인 에셋(Old Coin)
+  * https://assetstore.unity.com/packages/3d/props/old-coin-49530
+* 게임 내 모든 효과음 에셋(FREE Casual Game SFX Pack)
+  * https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+* 배경음악 및 메뉴음악
+  * https://www.chosic.com/
