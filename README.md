@@ -1,5 +1,5 @@
-## Unity_Project_Maze_Load (유니티 프로젝트_Maze길)
-## 2021-1 Virtual reality term-project (2021년도 1학기 가상현실 수업 텀프로젝트)
+### Unity_Project_Maze_Load (유니티 프로젝트_Maze길)
+### 2021-1 Virtual reality term-project (2021년도 1학기 가상현실 수업 텀프로젝트)
 --------------------------------------------------------------------------------
 ### Maze길 게임은?
 ### 우리가 상상할 수 없는 무한의 갈림길 미로의 세계.
