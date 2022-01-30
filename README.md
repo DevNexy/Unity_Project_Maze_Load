@@ -24,6 +24,7 @@
 ##### 앞으로 이동 : 화면 터치
 #### <모바일 구동화면_구글 카드보드 착용>
 ![image](https://user-images.githubusercontent.com/92451281/151687208-693bd331-1e7c-4ee4-9b94-bc27f3b3de91.png)
+![image](https://user-images.githubusercontent.com/92451281/151687276-576a4fa1-58fd-4f17-992a-dabc76d1d689.png)
 
 ---
 #### <게임 구현 설명>
